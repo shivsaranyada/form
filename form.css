@@ -1,0 +1,29 @@
+html{
+    margin: 0;
+    padding: 0;
+
+    background-color:rgb(66, 65, 65);
+}
+h1{
+    margin-left: 650px;
+    font-size: 70px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h3{
+    margin-left: 650px;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+hr{
+    margin-left: 480px;
+    margin-right: 303px;
+}
+.section1 {
+    font-size: 25px;
+    width: 50%;
+    background-image: url("op3.webp");
+    margin-left: 480px;
+}
